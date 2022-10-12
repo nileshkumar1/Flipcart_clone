@@ -21,33 +21,6 @@ The purpose of this project was to learn Django Framework.
 
 ----
 
-## Project Example of app
-
-#Home
-![home](https://user-images.githubusercontent.com/73256167/191462856-509a1670-f5d0-4685-9cd6-52bbd8f34d4e.png)
-
-#Product
-![prod2](https://user-images.githubusercontent.com/73256167/191462975-b57a7736-9c60-4930-9f16-350eff30a078.png)
-
-
-#Profile
-![prof](https://user-images.githubusercontent.com/73256167/191463122-3ad6e148-db01-42c0-b7ec-3f3b5b03efdf.png)
-
-#Cart
-![cart](https://user-images.githubusercontent.com/73256167/191463205-cae6d823-4c70-4d74-83f5-a9d9343675dc.png)
-
-#Payment
-![payment](https://user-images.githubusercontent.com/73256167/191463302-9c421a73-c216-40b5-ab4f-abf985924231.png)
-
-## Technologies
-
-- Python 3.10.5
-- Django 4.1
-- HTML / CSS / JS
-- Bootstrap 5
-- Stripe API
-- mailtrap.io
-- AJAX
 
 ## Setup
 
